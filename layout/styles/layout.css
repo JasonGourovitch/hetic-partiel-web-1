@@ -889,6 +889,7 @@ textarea:focus,
 .overlay {
 	color: #FFFFFF;
 	background-color: inherit;
+	background-image: url(../../images/demo/backgrounds/01.png)
 }
 
 .overlay::after {
@@ -922,7 +923,6 @@ textarea:focus,
 .imgover:hover::after {
 	color: #FFFFFF;
 }
-
 
 /* Rows */
 
