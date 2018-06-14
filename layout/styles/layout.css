@@ -1334,4 +1334,18 @@ table a,
 		flex-direction: row;
 		justify-content: space-between;
 	}
+	.align-center {
+		height: 2237px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+	}
+	.align-centerB {
+		height: 1768px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+	}
 }
