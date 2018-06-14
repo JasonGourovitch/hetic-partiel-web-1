@@ -1327,4 +1327,11 @@ table a,
 	.font-x3 {
 		font-size: 1.6rem;
 	}
+	.nospace {
+		width: 390px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
 }
